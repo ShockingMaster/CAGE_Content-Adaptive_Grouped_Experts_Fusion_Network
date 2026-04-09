@@ -1,6 +1,10 @@
 # CAGE: Content-Adaptive Grouped Experts Fusion Network
 
 > **Paper under review. Full code will be released upon acceptance.**
+>
+> [Supplementary Material](assets/supplementary.pdf)
+
+
 
 CAGE is a multi-modal image fusion network that achieves content-adaptivity at every stage of the fusion pipeline. Motivated by the observation that modality dominance varies spatially across an image pair, CAGE introduces three key components:
 
